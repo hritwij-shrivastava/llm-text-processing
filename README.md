@@ -58,7 +58,7 @@ Lists dependencies required to run the application.
 ## Installation Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/text-processing-api.git
+git clone https://github.com/hritwij-shrivastava/llm-text-processing.git
 cd text-processing-api
 ```
 
